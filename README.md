@@ -12,7 +12,7 @@
   [Questions](#questions)
   
   ## Description
-  This is command-line application tht takes information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person
+  This is command-line application that takes information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person
   
   ## Installation
   npm install
