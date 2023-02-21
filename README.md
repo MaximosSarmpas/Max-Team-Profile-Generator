@@ -1,6 +1,7 @@
 # Team Profile Generator
   ![Github License](https://img.shields.io/badge/license-MIT-green)
-  
+  ![image](https://user-images.githubusercontent.com/117605647/220476165-b8f7bb57-3c56-4033-b2a9-c95b39e2c431.png)
+
   
   ## Table of Contents
   
