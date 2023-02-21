@@ -18,7 +18,9 @@
   npm install
   
   ## Usage
-  1) Run node index.js ; 2) Enter all iformation requered ; 3) File HTML will be generated automaticaly
+  1) Run node index.js ; 2) Enter all iformation requered ; 3) File HTML will be generated automaticaly.
+  
+  Screencastify recording LINK: https://drive.google.com/file/d/1C4VGDQSRCBVJOqj5_QD5mpNgjkfhz912/view
   
   ## Tests
   npm test
